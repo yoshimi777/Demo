@@ -46,8 +46,4 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-    
-config.txt  
 
-data/     
-files/config.txt 
