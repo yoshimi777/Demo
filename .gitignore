@@ -50,3 +50,4 @@ wheels/
 data/
 files/config.txt
 files/this.db
+data/secret.txt
