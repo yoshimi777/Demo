@@ -47,3 +47,4 @@ wheels/
 .installed.cfg
 *.egg   
 
+data/secret.txt
