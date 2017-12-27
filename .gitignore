@@ -47,3 +47,7 @@ wheels/
 .installed.cfg
 *.egg   
 
+config.txt
+files/this.db
+files/config.txt
+data/
