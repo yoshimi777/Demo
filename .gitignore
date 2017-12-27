@@ -47,5 +47,5 @@ wheels/
 .installed.cfg
 *.egg   
 
-data/secret.txt
-files/
+files/this.db
+data/
