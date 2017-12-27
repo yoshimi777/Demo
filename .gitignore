@@ -49,3 +49,4 @@ wheels/
 
 data/secret.txt
 files/anotherfile
+files/this.db
