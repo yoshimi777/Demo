@@ -47,5 +47,3 @@ wheels/
 .installed.cfg
 *.egg   
 
-files/this.db
-data/
