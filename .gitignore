@@ -48,3 +48,4 @@ wheels/
 *.egg   
 
 data/secret.txt
+files/anotherfile
