@@ -46,6 +46,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg   
-files/this.db
-data/
-files/
+
+files/config.txt 
+data/     
+files/this.db 
