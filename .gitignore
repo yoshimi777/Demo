@@ -48,3 +48,4 @@ wheels/
 *.egg   
 files/this.db
 data/
+files/
